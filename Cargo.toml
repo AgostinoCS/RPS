@@ -1,0 +1,9 @@
+[package]
+name = "rps"
+version = "0.1.0"
+authors = ["AgostinoCS"]
+
+[dependencies]
+port_scanner = "*"
+clap = "*"
+
